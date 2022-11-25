@@ -118,3 +118,81 @@ body{
     align-items: center;
     justify-items: center;    
 }
+
+/*aboutme*/
+
+#about{
+    display: flex;
+    align-items: center;   
+}
+
+.heading-aboutme{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: goldenrod;
+}
+
+.h2-intro{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: goldenrod;
+}
+
+.h2-intro span{
+    color: pink;
+}
+
+.pronounces{
+    color:white;
+    font-size: 20px;
+}
+
+.aboutme-image{
+    width: 80%;
+    height: 100%;
+    border-radius: 10%;
+    overflow: hidden;
+    border: 5px solid #fff;
+    align-items: center;
+}
+
+@media (min-width:768px){
+    .aboutme-image{
+        display: flex;
+        width: 80%;
+        height: 100%;
+        border-radius: 10%;
+    }
+}
+
+.intro1{
+    font-size: 20px;
+    justify-items: center;
+    text-align: left;
+    color: white;
+}
+
+.intro2{
+    font-size: 20px;
+    justify-items: center;
+    text-align: left;
+    color: white;
+}
+
+.personal{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table1{
+    color:goldenrod;
+}
+
+.professional{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table2{
+    color:goldenrod;
+}
