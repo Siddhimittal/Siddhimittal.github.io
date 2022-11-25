@@ -196,3 +196,59 @@ body{
 .table2{
     color:goldenrod;
 }
+
+
+/*experience*/
+
+.exerience{
+    background-color: #071622; 
+}
+
+.experience-image{
+    height:100%;
+    width: 80%;
+    border-radius: 10%;
+    overflow: hidden;
+    border: 5px solid #fff;
+    align-items: center;
+}
+
+.heading-experience{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: goldenrod;
+}
+
+.experience-intro1{
+    font-size: 20px;
+    justify-items: center;
+    text-align: left;
+    color: white;
+}
+
+.skills{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table3{
+    color:#071622;
+}
+
+.designations{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.education{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table4{
+    color:#071622;
+}
+
+.table5{
+    color:#071622;
+}
