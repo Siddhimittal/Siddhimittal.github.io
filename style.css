@@ -98,7 +98,8 @@ body{
     .section-homeimage img{
         display:flex;
         margin: auto;
-        width: 70%;
+        width: 65%;
+        height: auto;
         border-radius: 10%;
         overflow: hidden;
         border: 5px solid #fff;
@@ -315,7 +316,7 @@ body{
     display: none;
 }
 
-.submit{
+.submits{
     display: none;
 }
 
