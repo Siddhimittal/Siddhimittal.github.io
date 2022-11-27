@@ -252,3 +252,50 @@ body{
 .table5{
     color:#071622;
 }
+
+/*project*/
+
+#projects{
+    align-items: center; 
+    display: flex;
+    display: inline-flex;
+}
+
+.heading-project{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: goldenrod;
+}
+
+.project-1{
+    border-color: black;
+    background-color: goldenrod;
+    width: 100%;
+}
+.project-2{
+    border-color: black;
+    background-color: goldenrod;
+    width: 100%;
+}
+.project-3{
+    border-color: black;
+    background-color: goldenrod;
+    width: 100%;
+}
+
+.project-body{
+    background-color: goldenrod;
+    width: 100%;
+    height : 60%;
+    margin-bottom: 20%;
+}
+
+.heading-insiideproject{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.pro-image{
+ height: 200px;
+}
