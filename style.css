@@ -109,6 +109,21 @@ body{
     }
 }
 
+@media (min-width:768px){
+    .section-homeimage img{
+        display:flex;
+        margin: auto;
+        width: 100%;
+        height: 100%;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
+}
+
 /*footer*/
 .fontawesome-section{
     align-items: center;
@@ -149,20 +164,43 @@ body{
 }
 
 .aboutme-image{
+    height:100%;
     width: 80%;
-    height: 100%;
     border-radius: 10%;
     overflow: hidden;
     border: 5px solid #fff;
     align-items: center;
 }
 
+@media (max-width:768.1px){
+    .aboutme-image{
+        display:flex;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
+}
+
+
 @media (min-width:768px){
     .aboutme-image{
-        display: flex;
+        display:flex;
+        margin: auto;
         width: 80%;
-        height: 100%;
+        height: 70%;
+        margin-top: 10%;
         border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
     }
 }
 
@@ -212,6 +250,37 @@ body{
     overflow: hidden;
     border: 5px solid #fff;
     align-items: center;
+}
+
+@media (max-width:768px){
+    .experience-image{
+        display:flex;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width:768px){
+    .experience-image{
+        display:flex;
+        margin: auto;
+        width: 80%;
+        height: 70%;
+        margin-top: 10%;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
 }
 
 .heading-experience{
