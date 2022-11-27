@@ -297,5 +297,70 @@ body{
 }
 
 .pro-image{
- height: 200px;
+    height: 200px;
+}
+
+/*contact form*/
+
+.icon-section{
+    display: flex;
+}
+
+.textfor-icon{
+    color: goldenrod;
+    margin-left: 30px;
+}
+
+.errors{
+    display: none;
+}
+
+.submit{
+    display: none;
+}
+
+.missingdetails {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.submitmessage {
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color:rgb(109, 13, 13)
+}
+
+.contact{
+    background-color: #071622;
+    display: flex;
+    align-items: center; 
+}
+
+.contactme-image{
+    width: 80%;
+    height:auto;
+    border-radius: 10%;
+    height: 100%;
+    align-content: center;
+    overflow: hidden;
+    border: 5px solid rgb(109, 13, 13);
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.inside-contact{
+    text-align: center;
+}
+
+.heading-contactme{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: goldenrod;
+}
+
+.contact-section{
+    justify-content: center;
+    align-content: center;
+    align-self: center;
 }
