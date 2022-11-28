@@ -172,7 +172,7 @@ body{
     align-items: center;
 }
 
-@media (max-width:768.1px){
+@media (max-width: 768px) {
     .aboutme-image{
         display:flex;
         margin: auto;
@@ -186,14 +186,30 @@ body{
         justify-content: center;
     }
 }
-
-
-@media (min-width:768px){
+  
+  
+@media (min-width: 768px) and (max-width: 1023.9px) {
     .aboutme-image{
         display:flex;
         margin: auto;
-        width: 80%;
-        height: 70%;
+        width: 90%;
+        height: 40%;
+        margin-top: 60%;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
+}
+  
+@media (min-width: 1024px) {
+    .aboutme-image{
+        display:flex;
+        margin: auto;
+        width: 85%;
+        height: 60%;
         margin-top: 10%;
         border-radius: 10%;
         overflow: hidden;
@@ -252,7 +268,7 @@ body{
     align-items: center;
 }
 
-@media (max-width:768px){
+@media (max-width: 768px) {
     .experience-image{
         display:flex;
         margin: auto;
@@ -266,13 +282,29 @@ body{
         justify-content: center;
     }
 }
-
-@media (min-width:768px){
+   
+@media (min-width: 768px) and (max-width: 1023.9px) {
     .experience-image{
         display:flex;
         margin: auto;
-        width: 80%;
-        height: 70%;
+        width: 90%;
+        height: 40%;
+        margin-top: 60%;
+        border-radius: 10%;
+        overflow: hidden;
+        border: 5px solid #fff;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+    }
+}
+  
+@media (min-width: 1024px) {
+    .experience-image{
+        display:flex;
+        margin: auto;
+        width: 85%;
+        height: 60%;
         margin-top: 10%;
         border-radius: 10%;
         overflow: hidden;
