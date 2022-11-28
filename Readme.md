@@ -6,22 +6,23 @@ to understand the basic structure, how to present the information and flow of in
 Along with that I also refered google searched links, Youtube videos, github, stackOverflow , Bootstrap main website and my previous completed homeworks.
 
 Please find the below referred links that i used while preparing my portfolio website:
-Bootstrap:https://getbootstrap.com/docs/5.0/getting-started/introduction
-FontAwesome: https://fontawesome.com/
-Bootstrap icon : https://icons.getbootstrap.com/
-Roboto font : https://fonts.google.com/specimen/Roboto\
-github: https://github.com/
-Youtube Videos: https://www.youtube.com/watch?v=0YFrGy_mzjY&t=6450s
-https://www.youtube.com/watch?v=NKIy3WFoRs4
-https://www.youtube.com/watch?v=zSRUtRsSNv0&t=1680s
-https://www.youtube.com/watch?v=EQ7Ze3eGAgI
-https://www.youtube.com/watch?v=Jl4UWWj69dg
-Google images: images.google.com
-StackOverflow link: https://stackoverflow.com/questions/32631180/link-contain-no-text-showing-error-in-wave-accessibility-evaluation-tool
-Validator: https://validator.w3.org/
-Seniors link : https://www.nah-red.net/index.html
-https://per-sephone.github.io/Final-Project-510WebDev/
-https://shawnspears.github.io/
+
+1. Bootstrap:https://getbootstrap.com/docs/5.0/getting-started/introduction
+2. FontAwesome: https://fontawesome.com/
+3. Bootstrap icon : https://icons.getbootstrap.com/
+4. Roboto font : https://fonts.google.com/specimen/Roboto\
+5. github: https://github.com/
+6. Youtube Videos: https://www.youtube.com/watch?v=0YFrGy_mzjY&t=6450s
+   https://www.youtube.com/watch?v=NKIy3WFoRs4
+   https://www.youtube.com/watch?v=zSRUtRsSNv0&t=1680s
+   https://www.youtube.com/watch?v=EQ7Ze3eGAgI
+   https://www.youtube.com/watch?v=Jl4UWWj69dg
+7. Google images: images.google.com
+8. StackOverflow link: https://stackoverflow.com/questions/32631180/link-contain-no-text-showing-error-in-wave-accessibility-evaluation-tool
+9. Validator: https://validator.w3.org/
+10. Seniors link : https://www.nah-red.net/index.html
+    https://per-sephone.github.io/Final-Project-510WebDev/
+    https://shawnspears.github.io/
 
 How To run the code:
 I used visual studio editor to make the portflio website. I pushed my code to the public repository.
